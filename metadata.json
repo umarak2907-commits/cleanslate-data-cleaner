@@ -1,0 +1,6 @@
+{
+  "name": "CleanSlate — Smart Data Cleaner & Link Processor",
+  "description": "Clean, normalize, and process CSV, Excel, and remote data links with one-click automated pipelines and shareable processing links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
